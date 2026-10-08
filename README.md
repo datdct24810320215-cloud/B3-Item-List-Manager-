@@ -17,18 +17,14 @@
 ### 2. Validate: Không cho phép thêm nếu Mã VT đã tồn tại trong ListView.
 ![Thực thi chức năng](./screenshots/validate.png)
 
-### 3.1 Khi chọn (Select) 1 dòng trong ListView, tự động đẩy dữ liệu của
-### dòng đó ngược lại các ô TextBox/ComboBox bên trái để chỉnh sửa.
+### 3.1 Khi chọn (Select) 1 dòng trong ListView, tự động đẩy dữ liệu của dòng đó ngược lại các ô TextBox/ComboBox bên trái để chỉnh sửa.
 ![Thực thi chức năng](./screenshots/select1.png)
 
-### 3.2 Khi chọn (Select) 1 dòng trong ListView, tự động đẩy dữ liệu của
-### dòng đó ngược lại các ô TextBox/ComboBox bên trái để chỉnh sửa.
+### 3.2 Khi chọn (Select) 1 dòng trong ListView, tự động đẩy dữ liệu của dòng đó ngược lại các ô TextBox/ComboBox bên trái để chỉnh sửa.
 ![Thực thi chức năng](./screenshots/select2.png)
 
-### 4.1 Khi nhấn "Xóa dòng", hiển thị MessageBox xác nhận dạng (Yes/No)
-### trước khi xóa.
+### 4.1 Khi nhấn "Xóa dòng", hiển thị MessageBox xác nhận dạng (Yes/No) trước khi xóa.
 ![Kiểm tra lỗi](./screenshots/xoa1.png)
 
-### 4.2 Khi nhấn "Xóa dòng", hiển thị MessageBox xác nhận dạng (Yes/No)
-### trước khi xóa.
+### 4.2 Khi nhấn "Xóa dòng", hiển thị MessageBox xác nhận dạng (Yes/No) trước khi xóa.
 ![Kiểm tra lỗi](./screenshots/xoa2.png)
